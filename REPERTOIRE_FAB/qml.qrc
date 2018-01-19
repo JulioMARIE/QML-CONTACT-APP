@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>controls/Button.qml</file>
+        <file>controls/Loader.qml</file>
+        <file>controls/Text.qml</file>
+        <file>controls/Variables.qml</file>
+        <file>FontAwesome.qml</file>
+        <file>Contacts.qml</file>
+    </qresource>
+</RCC>
